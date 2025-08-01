@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+
 
 #include "gittest.h"
 #include "Modules/ModuleManager.h"
