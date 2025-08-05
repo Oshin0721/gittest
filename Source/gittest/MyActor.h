@@ -12,7 +12,7 @@ class GITTEST_API AMyActor : public AActor
 	GENERATED_BODY()
 	
 public:	
-	// Sets default values for this actor's properties
+
 	AMyActor();
 
 protected:
